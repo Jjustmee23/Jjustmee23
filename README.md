@@ -1,52 +1,96 @@
+<!-- Banner or Header Image (Optional) -->
 ![Header](https://your-image-url.com/banner.png)
 
-# Hi, I'm Danny! 👋
+<!-- Typing SVG (Dynamic Text) -->
+<div align="center">
+  <a href="https://github.com/Jjustmee23">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F7A80D&center=true&vCenter=true&width=800&height=60&lines=Hey+there%2C+I'm+Danny!;Web+Developer+%7C+IoT+%7C+DevOps+Enthusiast;Automation+%26+Smart+City+Solutions;Welcome+to+My+GitHub+Profile!">
+  </a>
+</div>
 
-🚀 **Professional Web Developer | Programmer | IT Specialist**  
-💡 Passionate about **automation, smart city solutions, DevOps, and cybersecurity**  
-🖥️ **I build applications, automate workflows, manage servers, and deploy smart city solutions**  
+---
+
+## 📌 Table of Contents
+1. [About Me](#about-me)  
+2. [Tech Stack & Skills](#tech-stack--skills)  
+3. [GitHub Stats](#-my-github-stats)  
+4. [Projects](#current-projects)  
+5. [Smart City & IoT Work](#smart-city--iot-work)  
+6. [Achievements](#-achievements)  
+7. [Featured Projects](#featured-projects)  
+8. [Connect with Me](#connect-with-me)  
+9. [Fun Corner](#fun-corner)  
+10. [Latest Activity](#latest-activity)
+
+---
+
+## About Me
+> **Professional Web Developer | Programmer | IT Specialist**  
+> **Passionate about:** automation, smart city solutions, DevOps, cybersecurity.
+
+- 🏗️ Building **web/apps** with TypeScript, React, Next.js, Django
+- ⚙️ Automating **CI/CD** & DevOps workflows (GitHub Actions, Docker, Kubernetes)
+- 🌍 Driving **IoT, LoRaWAN, MQTT** solutions in smart city projects
+- 💬 **Ask me about:** fiber optics, networking, hosting, Raspberry Pi
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 🌐 Web & Front-End
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![ShadCN](https://img.shields.io/badge/ShadCN-Radix-FF5722?style=for-the-badge)
+<details open>
+  <summary><strong>🌐 Web & Front-End</strong></summary>
+  <br />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/ShadCN-Radix-FF5722?style=for-the-badge" alt="ShadCN" />
+</details>
 
-### 💾 Back-End & Databases
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Drizzle ORM](https://img.shields.io/badge/DrizzleORM-00C853?style=for-the-badge&logo=drizzle)
+<details>
+  <summary><strong>💾 Back-End & Databases</strong></summary>
+  <br />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/DrizzleORM-00C853?style=for-the-badge&logo=drizzle" alt="Drizzle ORM" />
+</details>
 
-### ⚡ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<details>
+  <summary><strong>⚡ DevOps & Cloud</strong></summary>
+  <br />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</details>
 
-### 💡 Automation & IoT
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi)
-![LoRaWAN](https://img.shields.io/badge/LoRaWAN-0072C6?style=for-the-badge&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-00569E?style=for-the-badge&logo=mqtt&logoColor=white)
+<details>
+  <summary><strong>💡 Automation & IoT</strong></summary>
+  <br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/LoRaWAN-0072C6?style=for-the-badge&logoColor=white" alt="LoRaWAN" />
+  <img src="https://img.shields.io/badge/MQTT-00569E?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+</details>
 
 ---
 
 ## 🔥 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jjustmee23&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jjustmee23&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jjustmee23&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jjustmee23&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jjustmee23&theme=radical" height="150" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jjustmee23&layout=compact&theme=radical" height="115" alt="Top Languages" />
+</p>
 
 ---
 
@@ -56,15 +100,15 @@
 ---
 
 ## 🚀 Current Projects
-- 🎮 **GamersHub** – A gaming social platform using **React, TypeScript, Express.js, PostgreSQL**
-- 🏙️ **Smart City IoT Solutions** – **Automation & networking** for smart cities with **LoRaWAN, MQTT, cloud computing**
-- 🛠️ **Automated DevOps Pipelines** – CI/CD pipelines using **GitHub Actions & Docker**
-- 🌍 **Custom Hosting Solutions** – Secure & scalable hosting with **Nginx, Ubuntu, Kubernetes**
+- 🎮 **GamersHub** – A gaming social platform using **React, TypeScript, Express.js, PostgreSQL**  
+- 🏙️ **Smart City IoT Solutions** – **Automation & networking** for smart cities with **LoRaWAN, MQTT, cloud**  
+- 🛠️ **Automated DevOps Pipelines** – CI/CD pipelines using **GitHub Actions & Docker**  
+- 🌍 **Custom Hosting Solutions** – Secure & scalable hosting with **Nginx, Ubuntu, Kubernetes**  
 
 ---
 
 ## 🌍 Smart City & IoT Work
-I specialize in **IoT, LoRaWAN, and automation** to help build **connected, sustainable infrastructures**. Some notable projects include:  
+I specialize in **IoT, LoRaWAN, and automation** to help build **connected, sustainable infrastructure**. Key focus areas:
 - ✅ Remote sensor deployment & monitoring  
 - ✅ Industrial automation & networking  
 - ✅ Smart lighting, energy management, & city-wide automation  
@@ -74,35 +118,49 @@ I specialize in **IoT, LoRaWAN, and automation** to help build **connected, sust
 ## 🏆 Achievements
 - **8+ years of experience** in fiber optics & networking  
 - **Professional web developer** & automation specialist  
-- **Deployed 300+ smart city factories** world wide
+- **Deployed 300+ smart city factories** in Iraq  
 - **Managing advanced automation** tools in private GitHub repos  
 
 ---
 
 ## 🌟 Featured Projects
-- **[GamersHub](https://github.com/Jjustmee23/GamersHub)** — *A gaming social platform*
-- **[IoT Automation System](https://github.com/Jjustmee23/IoT-Automation)** — *Remote city monitoring*
-- **[Hosting & DevOps](https://github.com/Jjustmee23/Hosting-Solutions)** — *Scalable hosting solutions*
+- **[GamersHub](https://github.com/Jjustmee23/GamersHub)** — *A gaming social platform*  
+- **[IoT Automation System](https://github.com/Jjustmee23/IoT-Automation)** — *Remote city monitoring*  
+- **[Hosting & DevOps](https://github.com/Jjustmee23/Hosting-Solutions)** — *Scalable hosting solutions*  
 
 ---
 
-## 📢 Connect with Me
+## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danny-verheyen-493862220/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jjustmee23)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yourportfolio.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/danny-verheyen-493862220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Jjustmee23" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
-## 🎭 Fun Corner
-![Jokes](https://readme-jokes.vercel.app/api)  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+## Fun Corner
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quote" />
+</p>
 
 ---
 
-## 🔔 Latest Activity
+## Latest Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
+
