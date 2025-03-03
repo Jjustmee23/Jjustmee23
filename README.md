@@ -193,7 +193,7 @@ I specialize in **IoT, LoRaWAN, and automation** to build **connected, sustainab
   <!-- Requires WakaTime API key & GitHub Actions. See: https://github.com/athul/waka-readme -->
   <br />
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical" alt="WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jjustmee23&theme=radical" alt="WakaTime Stats" />
   </p>
 </details>
 
