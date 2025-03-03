@@ -31,13 +31,8 @@
 ---
 
 ## About Me
-> **Professional Web Developer | IoT & DevOps Enthusiast | IT Specialist**  
-> Driven by **automation, CI/CD, hosting, cybersecurity, and smart city** solutions.
-
-- 💼 **Background:** 8+ years in fiber optics & networking  
-- 🌱 Currently focused on **TypeScript, React, Next.js, Django**  
-- 👷 **Interesting Fact:** Helped build 300+ smart city facilities in Iraq  
-- 💬 Ask me about hosting, Linux, Raspberry Pi, LoRaWAN, GitHub Actions
+**Web Developer, IoT & DevOps Enthusiast, and IT Specialist**  
+Enjoy working on automation, CI/CD, hosting, cybersecurity, and smart city solutions.
 
 ---
 
@@ -102,30 +97,23 @@
 ---
 
 ## Projects
-- 🎮 **GamersHub** – Gaming social platform using **React, TypeScript, Express.js, PostgreSQL**  
-- 🏙️ **Smart City IoT Solutions** – Automation & networking for **smart cities** (LoRaWAN, MQTT, cloud)  
-- 🛠️ **Automated DevOps Pipelines** – CI/CD with **GitHub Actions & Docker**  
-- 🌍 **Custom Hosting Solutions** – Scalable hosting with **Nginx, Ubuntu, Kubernetes**
+- **GamersHub** – Gaming social platform (React, TypeScript, Express.js, PostgreSQL)  
+- **Smart City IoT Solutions** – Automation & networking for smart cities (LoRaWAN, MQTT, cloud)  
+- **Automated DevOps Pipelines** – CI/CD with GitHub Actions & Docker  
+- **Custom Hosting Solutions** – Scalable hosting with Nginx, Ubuntu, Kubernetes
 
 ---
 
 ## Smart City & IoT
-I specialize in **IoT, LoRaWAN, and automation** to build **connected, sustainable infrastructure**:
-
-- ✅ Remote sensor deployment & monitoring  
-- ✅ Industrial automation & networking  
-- ✅ Smart lighting, energy management, and city-wide automation  
+Focused on IoT, LoRaWAN, and automation to build connected, sustainable infrastructures:
+- Remote sensor deployment & monitoring  
+- Industrial automation & networking  
+- Smart lighting, energy management, and city-wide automation  
 
 ---
 
 ## Achievements & Trophies
 
-- **8+ years** of experience in fiber optics & networking  
-- **300+ smart city facilities** deployed in Iraq  
-- **Professional** web developer & automation specialist  
-- Maintainer of **private** repos with advanced tools  
-
-<!-- GitHub Trophies (requires no special config) -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jjustmee23&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
@@ -133,9 +121,9 @@ I specialize in **IoT, LoRaWAN, and automation** to build **connected, sustainab
 ---
 
 ## Featured Repositories
-- **[GamersHub](https://github.com/Jjustmee23/GamersHub)** — *Social platform for gamers*  
-- **[IoT Automation System](https://github.com/Jjustmee23/IoT-Automation)** — *Smart city monitoring*  
-- **[Hosting & DevOps](https://github.com/Jjustmee23/Hosting-Solutions)** — *Scalable hosting & CI/CD*
+- [GamersHub](https://github.com/Jjustmee23/GamersHub) — Social platform for gamers  
+- [IoT Automation System](https://github.com/Jjustmee23/IoT-Automation) — Smart city monitoring  
+- [Hosting & DevOps](https://github.com/Jjustmee23/Hosting-Solutions) — Scalable hosting & CI/CD
 
 ---
 
@@ -169,7 +157,6 @@ I specialize in **IoT, LoRaWAN, and automation** to build **connected, sustainab
 
 ## Latest Activity
 <!--START_SECTION:activity-->
-<!-- (Requires the GitHub Actions workflow for auto updates) -->
 <!--END_SECTION:activity-->
 
 ---
@@ -178,9 +165,6 @@ I specialize in **IoT, LoRaWAN, and automation** to build **connected, sustainab
 
 <details>
   <summary><strong>Contribution Snake Game</strong></summary>
-  
-  <!-- For this feature, you need a GitHub Action that generates the SVG. See: https://github.com/Platane/snk -->
-  <!-- Update the path to your own username and repository -->
   <br />
   <p align="center">
     <img src="https://github.com/Jjustmee23/Jjustmee23/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -189,8 +173,6 @@ I specialize in **IoT, LoRaWAN, and automation** to build **connected, sustainab
 
 <details>
   <summary><strong>WakaTime Stats (optional)</strong></summary>
-  
-  <!-- Requires WakaTime API key & GitHub Actions. See: https://github.com/athul/waka-readme -->
   <br />
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jjustmee23&theme=radical" alt="WakaTime Stats" />
@@ -199,11 +181,8 @@ I specialize in **IoT, LoRaWAN, and automation** to build **connected, sustainab
 
 <details>
   <summary><strong>GitHub Skyline (optional)</strong></summary>
-  
-  <!-- Link to your personal Skyline (https://skyline.github.com/) -->
   <br />
   <p align="center">
     📡 <a href="https://skyline.github.com/Jjustmee23/2023" target="_blank">View My 3D GitHub Skyline!</a>
   </p>
 </details>
-
