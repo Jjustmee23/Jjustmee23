@@ -1,41 +1,47 @@
-<!-- Banner or Header Image (Optional) -->
-![Header](https://your-image-url.com/banner.png)
+<!-- Optional banner or header image -->
+![Banner](https://your-image-url.com/banner.png)
 
-<!-- Typing SVG (Dynamic Text) -->
+<!-- Dynamic Typing SVG (customizable text, colors, speed) -->
 <div align="center">
   <a href="https://github.com/Jjustmee23">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F7A80D&center=true&vCenter=true&width=800&height=60&lines=Hey+there%2C+I'm+Danny!;Web+Developer+%7C+IoT+%7C+DevOps+Enthusiast;Automation+%26+Smart+City+Solutions;Welcome+to+My+GitHub+Profile!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F7A80D&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+My+GitHub!;I'm+Danny+(Jjustmee23);Developer+%7C+DevOps+%7C+Automation+%7C+Smart+City;Explore+My+Projects+%26+Enjoy!">
   </a>
 </div>
 
 ---
 
-## 📌 Table of Contents
+<!-- Visitor counter (optional) -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Jjustmee23&style=flat-square&color=blue" alt="visitor counter"/>
+</div>
+
+## 📖 Table of Contents
 1. [About Me](#about-me)  
 2. [Tech Stack & Skills](#tech-stack--skills)  
-3. [GitHub Stats](#-my-github-stats)  
-4. [Projects](#current-projects)  
-5. [Smart City & IoT Work](#smart-city--iot-work)  
-6. [Achievements](#-achievements)  
-7. [Featured Projects](#featured-projects)  
-8. [Connect with Me](#connect-with-me)  
+3. [GitHub Stats](#-github-stats)  
+4. [Projects](#projects)  
+5. [Smart City & IoT](#smart-city--iot)  
+6. [Achievements & Trophies](#achievements--trophies)  
+7. [Featured Repositories](#featured-repositories)  
+8. [Contact](#contact)  
 9. [Fun Corner](#fun-corner)  
-10. [Latest Activity](#latest-activity)
+10. [Latest Activity](#latest-activity)  
+11. [Extras](#extras)  
 
 ---
 
 ## About Me
-> **Professional Web Developer | Programmer | IT Specialist**  
-> **Passionate about:** automation, smart city solutions, DevOps, cybersecurity.
+> **Professional Web Developer | IoT & DevOps Enthusiast | IT Specialist**  
+> Driven by **automation, CI/CD, hosting, cybersecurity, and smart city** solutions.
 
-- 🏗️ Building **web/apps** with TypeScript, React, Next.js, Django
-- ⚙️ Automating **CI/CD** & DevOps workflows (GitHub Actions, Docker, Kubernetes)
-- 🌍 Driving **IoT, LoRaWAN, MQTT** solutions in smart city projects
-- 💬 **Ask me about:** fiber optics, networking, hosting, Raspberry Pi
+- 💼 **Background:** 8+ years in fiber optics & networking  
+- 🌱 Currently focused on **TypeScript, React, Next.js, Django**  
+- 👷 **Interesting Fact:** Helped build 300+ smart city facilities in Iraq  
+- 💬 Ask me about hosting, Linux, Raspberry Pi, LoRaWAN, GitHub Actions
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <details open>
   <summary><strong>🌐 Web & Front-End</strong></summary>
@@ -44,7 +50,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/ShadCN-Radix-FF5722?style=for-the-badge" alt="ShadCN" />
 </details>
 
@@ -57,7 +63,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/DrizzleORM-00C853?style=for-the-badge&logo=drizzle" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/Drizzle-00C853?style=for-the-badge&logo=drizzle" alt="Drizzle ORM" />
 </details>
 
 <details>
@@ -82,55 +88,58 @@
 
 ---
 
-## 🔥 My GitHub Stats
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jjustmee23&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jjustmee23&theme=radical" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jjustmee23&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jjustmee23&theme=radical" height="180" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jjustmee23&layout=compact&theme=radical" height="115" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jjustmee23&layout=compact&theme=radical" height="130" alt="Top Languages" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jjustmee23&theme=react-dark)
+## Projects
+- 🎮 **GamersHub** – Gaming social platform using **React, TypeScript, Express.js, PostgreSQL**  
+- 🏙️ **Smart City IoT Solutions** – Automation & networking for **smart cities** (LoRaWAN, MQTT, cloud)  
+- 🛠️ **Automated DevOps Pipelines** – CI/CD with **GitHub Actions & Docker**  
+- 🌍 **Custom Hosting Solutions** – Scalable hosting with **Nginx, Ubuntu, Kubernetes**
 
 ---
 
-## 🚀 Current Projects
-- 🎮 **GamersHub** – A gaming social platform using **React, TypeScript, Express.js, PostgreSQL**  
-- 🏙️ **Smart City IoT Solutions** – **Automation & networking** for smart cities with **LoRaWAN, MQTT, cloud**  
-- 🛠️ **Automated DevOps Pipelines** – CI/CD pipelines using **GitHub Actions & Docker**  
-- 🌍 **Custom Hosting Solutions** – Secure & scalable hosting with **Nginx, Ubuntu, Kubernetes**  
+## Smart City & IoT
+I specialize in **IoT, LoRaWAN, and automation** to build **connected, sustainable infrastructure**:
 
----
-
-## 🌍 Smart City & IoT Work
-I specialize in **IoT, LoRaWAN, and automation** to help build **connected, sustainable infrastructure**. Key focus areas:
 - ✅ Remote sensor deployment & monitoring  
 - ✅ Industrial automation & networking  
-- ✅ Smart lighting, energy management, & city-wide automation  
+- ✅ Smart lighting, energy management, and city-wide automation  
 
 ---
 
-## 🏆 Achievements
-- **8+ years of experience** in fiber optics & networking  
-- **Professional web developer** & automation specialist  
-- **Deployed 300+ smart city factories** in Iraq  
-- **Managing advanced automation** tools in private GitHub repos  
+## Achievements & Trophies
+
+- **8+ years** of experience in fiber optics & networking  
+- **300+ smart city facilities** deployed in Iraq  
+- **Professional** web developer & automation specialist  
+- Maintainer of **private** repos with advanced tools  
+
+<!-- GitHub Trophies (requires no special config) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jjustmee23&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
-- **[GamersHub](https://github.com/Jjustmee23/GamersHub)** — *A gaming social platform*  
-- **[IoT Automation System](https://github.com/Jjustmee23/IoT-Automation)** — *Remote city monitoring*  
-- **[Hosting & DevOps](https://github.com/Jjustmee23/Hosting-Solutions)** — *Scalable hosting solutions*  
+## Featured Repositories
+- **[GamersHub](https://github.com/Jjustmee23/GamersHub)** — *Social platform for gamers*  
+- **[IoT Automation System](https://github.com/Jjustmee23/IoT-Automation)** — *Smart city monitoring*  
+- **[Hosting & DevOps](https://github.com/Jjustmee23/Hosting-Solutions)** — *Scalable hosting & CI/CD*
 
 ---
 
-## Connect with Me
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danny-verheyen-493862220/" target="_blank">
@@ -160,7 +169,41 @@ I specialize in **IoT, LoRaWAN, and automation** to help build **connected, sust
 
 ## Latest Activity
 <!--START_SECTION:activity-->
+<!-- (Requires the GitHub Actions workflow for auto updates) -->
 <!--END_SECTION:activity-->
 
 ---
+
+## Extras
+
+<details>
+  <summary><strong>Contribution Snake Game</strong></summary>
+  
+  <!-- For this feature, you need a GitHub Action that generates the SVG. See: https://github.com/Platane/snk -->
+  <!-- Update the path to your own username and repository -->
+  <br />
+  <p align="center">
+    <img src="https://github.com/Jjustmee23/Jjustmee23/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </p>
+</details>
+
+<details>
+  <summary><strong>WakaTime Stats (optional)</strong></summary>
+  
+  <!-- Requires WakaTime API key & GitHub Actions. See: https://github.com/athul/waka-readme -->
+  <br />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical" alt="WakaTime Stats" />
+  </p>
+</details>
+
+<details>
+  <summary><strong>GitHub Skyline (optional)</strong></summary>
+  
+  <!-- Link to your personal Skyline (https://skyline.github.com/) -->
+  <br />
+  <p align="center">
+    📡 <a href="https://skyline.github.com/Jjustmee23/2023" target="_blank">View My 3D GitHub Skyline!</a>
+  </p>
+</details>
 
