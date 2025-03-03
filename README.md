@@ -74,7 +74,7 @@ I specialize in **IoT, LoRaWAN, and automation** to help build **connected, sust
 ## 🏆 Achievements
 - **8+ years of experience** in fiber optics & networking  
 - **Professional web developer** & automation specialist  
-- **Deployed 300+ smart city factories** in Iraq  
+- **Deployed 300+ smart city factories** world wide
 - **Managing advanced automation** tools in private GitHub repos  
 
 ---
