@@ -1,5 +1,5 @@
 <!-- Optional banner or header image -->
-![Banner](https://your-image-url.com/banner.png)
+![Banner](https://midaweb.be/images/public/banner.png)
 
 <!-- Dynamic Typing SVG (customizable text, colors, speed) -->
 <div align="center">
