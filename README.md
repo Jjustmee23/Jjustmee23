@@ -32,7 +32,7 @@
 
 ## About Me
 **Web Developer, IoT & DevOps Enthusiast, and IT Specialist**  
-Enjoy working on automation, CI/CD, hosting, cybersecurity, and smart city solutions.
+Enjoy working on automation, CI/CD, hosting, cybersecurity, and smart home / city solutions.
 
 ---
 
