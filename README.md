@@ -206,9 +206,6 @@ I specialize in creating **connected, sustainable infrastructure** through IoT a
 
 <div align="center">
   <img src="https://github.com/Jjustmee23/Jjustmee23/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-  <!-- Alternative: GitHub Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jjustmee23&theme=radical&hide_border=true&bg_color=0D1117&color=F7A80D&line=F7A80D&point=FFFFFF&area=true&area_color=F7A80D&area_alpha=0.1" alt="GitHub Activity Graph" />
 </div>
 
 ---
