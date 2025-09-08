@@ -210,12 +210,6 @@ I specialize in creating **connected, sustainable infrastructure** through IoT a
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jjustmee23&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7A80D&text_color=FFFFFF" alt="WakaTime Stats" />
-</div>
-
 ---
 
 <div align="center">
