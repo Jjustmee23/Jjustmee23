@@ -1,7 +1,5 @@
 <!-- Header with animated typing and visitor counter -->
 <div align="center">
-  <img src="https://midaweb.be/images/public/banner123.png" alt="Banner" width="100%"/>
-  
   <!-- Dynamic Typing SVG with improved styling -->
   <a href="https://github.com/Jjustmee23">
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=F7A80D&center=true&vCenter=true&width=1000&height=80&lines=🚀+Welcome+to+My+GitHub+Profile!;👨‍💻+I'm+Danny+(Jjustmee23);🛠️+Full-Stack+Developer+%7C+DevOps+Engineer+%7C+IoT+Specialist;🏙️+Passionate+about+Smart+Cities+%26+Automation;🌟+Let's+build+the+future+together!" alt="Typing SVG" />
@@ -96,7 +94,7 @@ I'm **Danny Verheyen**, a passionate **Full-Stack Developer** and **DevOps Engin
 
 **Tech Stack:** React, TypeScript, Express.js, PostgreSQL, Socket.io
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://gamershub-demo.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Jjustmee23/GamersHub)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jjustmee23/GamersHub)
 
 ---
@@ -106,7 +104,7 @@ I'm **Danny Verheyen**, a passionate **Full-Stack Developer** and **DevOps Engin
 
 **Tech Stack:** Python, LoRaWAN, MQTT, Docker, Kubernetes
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://smartcity-demo.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Jjustmee23/IoT-Automation)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jjustmee23/IoT-Automation)
 
 ---
@@ -169,10 +167,10 @@ I specialize in creating **connected, sustainable infrastructure** through IoT a
   <a href="https://github.com/Jjustmee23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:danny.verheyen@example.com" target="_blank">
+  <a href="mailto:danny.verheyen@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://github.com/Jjustmee23" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -216,7 +214,7 @@ I specialize in creating **connected, sustainable infrastructure** through IoT a
   <h3>🌟 Thanks for visiting my profile! 🌟</h3>
   <p>Feel free to reach out if you'd like to collaborate on exciting projects!</p>
   
-  <a href="https://skyline.github.com/Jjustmee23/2023" target="_blank">
+  <a href="https://skyline.github.com/Jjustmee23/2024" target="_blank">
     <img src="https://img.shields.io/badge/GitHub_Skyline-3D_Profile-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
   </a>
 </div>
