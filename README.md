@@ -1,5 +1,7 @@
-<!-- Header with animated typing and visitor counter -->
+<!-- Header with custom banner -->
 <div align="center">
+  <img src="banner.svg" alt="Danny Verheyen - Full-Stack Developer" width="100%"/>
+  
   <!-- Dynamic Typing SVG with improved styling -->
   <a href="https://github.com/Jjustmee23">
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=F7A80D&center=true&vCenter=true&width=1000&height=80&lines=🚀+Welcome+to+My+GitHub+Profile!;👨‍💻+I'm+Danny+(Jjustmee23);🛠️+Full-Stack+Developer+%7C+DevOps+Engineer+%7C+IoT+Specialist;🏙️+Passionate+about+Smart+Cities+%26+Automation;🌟+Let's+build+the+future+together!" alt="Typing SVG" />

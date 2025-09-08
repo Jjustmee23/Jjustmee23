@@ -1,0 +1,47 @@
+<svg width="1200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#16213e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f3460;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F7A80D;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F7A80D;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="200" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="100" cy="50" r="3" fill="#F7A80D" opacity="0.6"/>
+  <circle cx="1100" cy="150" r="4" fill="#F7A80D" opacity="0.4"/>
+  <circle cx="200" cy="180" r="2" fill="#F7A80D" opacity="0.8"/>
+  <circle cx="1000" cy="30" r="3" fill="#F7A80D" opacity="0.5"/>
+  
+  <!-- Main title -->
+  <text x="600" y="80" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="url(#textGradient)">
+    Danny Verheyen
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="110" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#FFFFFF" opacity="0.9">
+    Full-Stack Developer | DevOps Engineer | IoT Specialist
+  </text>
+  
+  <!-- Tech stack icons representation -->
+  <text x="600" y="140" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#F7A80D" opacity="0.8">
+    🏭 Mill Management Systems • 🐳 Docker • ☁️ MQTT • 🐍 Django • 🎮 Game Development
+  </text>
+  
+  <!-- Bottom accent line -->
+  <rect x="200" y="170" width="800" height="2" fill="url(#textGradient)" opacity="0.7"/>
+  
+  <!-- Corner decorations -->
+  <polygon points="0,0 50,0 0,50" fill="#F7A80D" opacity="0.1"/>
+  <polygon points="1200,0 1150,0 1200,50" fill="#F7A80D" opacity="0.1"/>
+  <polygon points="0,200 50,200 0,150" fill="#F7A80D" opacity="0.1"/>
+  <polygon points="1200,200 1150,200 1200,150" fill="#F7A80D" opacity="0.1"/>
+</svg>
