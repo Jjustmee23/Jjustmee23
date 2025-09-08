@@ -205,7 +205,7 @@ I specialize in creating **connected, sustainable infrastructure** through IoT a
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jjustmee23/Jjustmee23/0d34c04ce22d94fd58e544c2f0bd880a374b6c0e/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Jjustmee23/Jjustmee23/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
